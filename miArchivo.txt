@@ -5,7 +5,6 @@ Johan es el puto amo y va aprender mucho en Tie-fighter.
 
 Pero johan ya no esta en ITOPs.
 
-
 Vamos añadir mas cosas para crear una nueva rama
 .
 
